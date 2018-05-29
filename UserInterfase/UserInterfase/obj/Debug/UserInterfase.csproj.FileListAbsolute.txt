@@ -1,0 +1,15 @@
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\bin\Debug\UserInterfase.exe.config
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\bin\Debug\UserInterfase.exe
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\bin\Debug\UserInterfase.pdb
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\bin\Debug\MySql.Data.dll
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\bin\Debug\MySql.Data.xml
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.csprojResolveAssemblyReference.cache
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.Authorisate.resources
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.Main.resources
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.Properties.Resources.resources
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.csproj.GenerateResource.Cache
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.exe
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.pdb
+D:\DataBase\InterfaseUser\UserInterfase\UserInterfase\obj\Debug\UserInterfase.Regist.resources
